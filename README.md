@@ -1,20 +1,29 @@
-# Hi, I'm Kaige Liang 👋
+# Hi, I'm Kaige Liang / 梁凯歌 👋
 
-Undergraduate student at **The Hong Kong University of Science and Technology (Guangzhou)** (2024 – present).
+AI undergrad @ **HKUST(GZ)** (2024 – 2028, expected).  
+Looking for **Winter 2026 – Spring 2027** industry internships in LLM post-training / evaluation / safety, multimodal, and agent systems.
 
-📫 Contact: kgliang033@connect.hkust-gz.edu.cn
+港科大广州 AI 本科（2024 – 2028 届）。方向：大模型后训练与安全评测、多模态、Agent 工程。
 
-## Interests
-- Multimodal & video understanding (sports tactics, AIGC video)
-- Embodied AI and reinforcement learning
-- LLM safety, alignment and AI philosophy
-- Systems and tooling in MoonBit
+📫 `liangkaigee@gmail.com` · GitHub: [kaigeliang](https://github.com/kaigeliang)
 
-## Selected projects
+## Interests / 兴趣
+- LLM alignment, safety evaluation, RAG robustness  
+- Multimodal / video generation agents  
+- Classical RL & knowledge-graph constrained reasoning  
+- Systems tooling (MoonBit)
+
+## Selected public projects / 公开项目
 | Project | What it is |
 |---|---|
-| [moonbit-upload](https://github.com/kaigeliang/moonbit-upload) | MoonRelay: large-file transfer with SSH resume and SHA-256 verification (MoonBit library + CLI) |
-| [moonbit-jsonlogic](https://github.com/kaigeliang/moonbit-jsonlogic) | Cross-target JSONLogic business-rule engine for MoonBit, validated against PostgreSQL |
-| [moonbit-casekit](https://github.com/kaigeliang/moonbit-casekit) | Record and compare MoonBit behavior across native, JS, Wasm and Wasm-GC |
-| [proveo](https://github.com/kaigeliang/proveo) | End-to-end TikTok Shop AIGC short-video production system |
-| [hkustgz-clash-zju-connect](https://github.com/kaigeliang/hkustgz-clash-zju-connect) | Lightweight macOS bridge running zju-connect with Clash Verge for HKUST(GZ) |
+| [proveo](https://github.com/kaigeliang/proveo) | End-to-end TikTok Shop AIGC video agent (storyboard → Seedance → trust passport) |
+| [moonbit-upload](https://github.com/kaigeliang/moonbit-upload) | MoonRelay: resumable SSH transfer + SHA-256 (MoonBit lib + CLI) |
+| [moonbit-jsonlogic](https://github.com/kaigeliang/moonbit-jsonlogic) | Cross-target JSONLogic engine for MoonBit |
+| [moonbit-casekit](https://github.com/kaigeliang/moonbit-casekit) | Record & compare behavior across native / JS / Wasm |
+
+Additional LLM-safety / RAG / multimodal research repos are being prepared for public release (no links until visibility is public).
+
+更多 LLM 安全、RAG、多模态研究仓库整理中，公开后再挂链接。
+
+## Note
+Campus VPN helper: [hkustgz-clash-zju-connect](https://github.com/kaigeliang/hkustgz-clash-zju-connect) (unofficial).
